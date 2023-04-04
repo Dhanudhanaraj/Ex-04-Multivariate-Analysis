@@ -117,8 +117,11 @@ sns.heatmap(data.corr(),annot=True)
 ### ISNULL()
 ![DS6](https://user-images.githubusercontent.com/119218812/229864270-8828cc8f-7a97-47a6-b499-8910690dae1b.png)
 
+Postal code has outliers.
+
 ![DS7](https://user-images.githubusercontent.com/119218812/229864310-6ed370be-22c2-4608-8c4e-ed930c86182d.png)
 
+After removing outliers from Postal Code.
 
 ## MULTIVARIATE ANALYSIS
 ### SCATTER PLOT
@@ -128,14 +131,18 @@ sns.heatmap(data.corr(),annot=True)
 ### BARPLOT
 ![DS9](https://user-images.githubusercontent.com/119218812/229864346-64738ede-651a-4262-9ec4-290add5f5771.png)
 
+West has more sales than other region.
+
 ![DS10](https://user-images.githubusercontent.com/119218812/229864366-48d94b3f-fee9-45c2-ba3d-bc4840c14b62.png)
 
+California has more sales than other states.
 
 
 
 ### SEGMENTATION
 ![DS11](https://user-images.githubusercontent.com/119218812/229864484-c36f4533-f0ff-4540-a12d-e13116fe36cc.png)
 
+Technology has more sales than other category.
 
 ### SUBPLOTS
 ![DS12](https://user-images.githubusercontent.com/119218812/229864506-89a90717-c194-4123-a6e3-6966fee79d21.png)
